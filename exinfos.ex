@@ -1,0 +1,10 @@
+[INFOS]
+gaf=0
+title=WW_Precilia_Sport
+image=description.gif
+description=description.rtf
+source=1
+preview=preview.png
+typesite=0
+[OBJECT]
+WW_Precilia_Sport.wwp=4096

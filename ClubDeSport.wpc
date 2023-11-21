@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Palette Nom="ClubDeSport">
+  <Couleurs>
+    <Couleur Nom="General (Bckgrd 1)" ID="0">#241d1e</Couleur>
+    <Couleur Nom="Negative (Bckgrd 1)" ID="1">#4e4e4e</Couleur>
+    <Couleur Nom="Button (Bckgrd 1)" ID="2">#e71f74</Couleur>
+    <Couleur Nom="Input area/Area in selection (Bckgrd 1)" ID="3">#ffffff</Couleur>
+    <Couleur Nom="Button (Bckgrd 2)" ID="4">#d41d6b</Couleur>
+    <Couleur Nom="Input area/Area in selection (Bckgrd 2)" ID="5">#e8e8e8</Couleur>
+    <Couleur Nom="Gradient (Bckgrd 1)" ID="6">#e71f74</Couleur>
+    <Couleur Nom="Gradient (Bckgrd 2)" ID="7">#e77ea6</Couleur>
+    <Couleur Nom="Note (Bckgrd 1)" ID="8">#e8e8e8</Couleur>
+    <Couleur Nom="Note (Bckgrd 2)" ID="9">#4caf50</Couleur>
+    <Couleur Nom="General (Text 1)" ID="10">#ffffff</Couleur>
+    <Couleur Nom="Title (Text 1)" ID="11">#ffffff</Couleur>
+    <Couleur Nom="Subtitle (Text 1)" ID="12">#ffffff</Couleur>
+    <Couleur Nom="Input area/Area in selection (Text 1)" ID="13">#333333</Couleur>
+    <Couleur Nom="Link (1) (Text 1)" ID="14">#ffffff</Couleur>
+    <Couleur Nom="Input area/Area in selection (Text 2)" ID="15">#292929</Couleur>
+    <Couleur Nom="General (Border 1)" ID="16">#111111</Couleur>
+    <Couleur Nom="General (Border 2)" ID="17">#241d1e</Couleur>
+    <Couleur Nom="Negative (Text 1)" ID="18">#000000</Couleur>
+    <Couleur Nom="General (Text 2)" ID="19">#928e8f</Couleur>
+    <Couleur Nom="Button (Text 1)" ID="20">#ffffff</Couleur>
+    <Couleur Nom="General (Bckgrd 2)" ID="21">#241d1e</Couleur>
+    <Couleur Nom="General (Bckgrd 3)" ID="22">#e71f74</Couleur>
+    <Couleur Nom="Negative (Bckgrd 2)" ID="23">#636363</Couleur>
+    <Couleur Nom="Negative (Bckgrd 3)" ID="24">#212121</Couleur>
+    <Couleur Nom="Button (Bckgrd 3)" ID="25">#f3217a</Couleur>
+    <Couleur Nom="Input area/Area in selection (Bckgrd 3)" ID="26">#f9f9f9</Couleur>
+    <Couleur Nom="Gradient (Bckgrd 3)" ID="27">#b5185b</Couleur>
+    <Couleur Nom="Note (Bckgrd 3)" ID="28">#f44336</Couleur>
+    <Couleur Nom="Title (Bckgrd 1)" ID="29">#111111</Couleur>
+    <Couleur Nom="Title (Bckgrd 2)" ID="30">#241d1e</Couleur>
+    <Couleur Nom="Title (Bckgrd 3)" ID="31">#e71f74</Couleur>
+    <Couleur Nom="Subtitle (Bckgrd 1)" ID="32">#ffffff</Couleur>
+    <Couleur Nom="Subtitle (Bckgrd 2)" ID="33">#f9f9f9</Couleur>
+    <Couleur Nom="Subtitle (Bckgrd 3)" ID="34">#f8217c</Couleur>
+    <Couleur Nom="Menu/Tab (Bckgrd 1)" ID="35">#000000</Couleur>
+    <Couleur Nom="Menu/Tab (Bckgrd 2)" ID="36">#000000</Couleur>
+    <Couleur Nom="Menu/Tab (Bckgrd 3)" ID="37">#000000</Couleur>
+    <Couleur Nom="Sub-menu (Bckgrd 1)" ID="38">#000000</Couleur>
+    <Couleur Nom="Sub-menu (Bckgrd 2)" ID="39">#e71f74</Couleur>
+    <Couleur Nom="Sub-menu (Bckgrd 3)" ID="40">#000000</Couleur>
+    <Couleur Nom="Table/Looper rows (Bckgrd 1)" ID="41">#ffffff</Couleur>
+    <Couleur Nom="Table/Looper rows (Bckgrd 2)" ID="42">#f9f9f9</Couleur>
+    <Couleur Nom="Table/Looper rows (Bckgrd 3)" ID="43">#dadada</Couleur>
+    <Couleur Nom="General (Text 3)" ID="44">#fffcfe</Couleur>
+    <Couleur Nom="Negative (Text 2)" ID="45">#fbfbfb</Couleur>
+    <Couleur Nom="Negative (Text 3)" ID="46">#f9c4d6</Couleur>
+    <Couleur Nom="Title (Text 2)" ID="47">#727272</Couleur>
+    <Couleur Nom="Title (Text 3)" ID="48">#e71f74</Couleur>
+    <Couleur Nom="Subtitle (Text 2)" ID="49">#ffffff</Couleur>
+    <Couleur Nom="Subtitle (Text 3)" ID="50">#ffffff</Couleur>
+    <Couleur Nom="Link (1) (Text 2)" ID="51">#f5217b</Couleur>
+    <Couleur Nom="Link (1) (Text 3)" ID="52">#e71f74</Couleur>
+    <Couleur Nom="Link (2) (Text 1)" ID="53">#292929</Couleur>
+    <Couleur Nom="Link (2) (Text 2)" ID="54">#430922</Couleur>
+    <Couleur Nom="Link (2) (Text 3)" ID="55">#333333</Couleur>
+    <Couleur Nom="Button (Text 2)" ID="56">#292929</Couleur>
+    <Couleur Nom="Button (Text 3)" ID="57">#e71f74</Couleur>
+    <Couleur Nom="Menu/Tab (Text 1)" ID="58">#ffffff</Couleur>
+    <Couleur Nom="Menu/Tab (Text 2)" ID="59">#e71f74</Couleur>
+    <Couleur Nom="Menu/Tab (Text 3)" ID="60">#ffffff</Couleur>
+    <Couleur Nom="Sub-menu (Text 1)" ID="61">#333333</Couleur>
+    <Couleur Nom="Sub-menu (Text 2)" ID="62">#ffffff</Couleur>
+    <Couleur Nom="Sub-menu (Text 3)" ID="63">#241d1e</Couleur>
+    <Couleur Nom="Input area/Area in selection (Text 3)" ID="64">#292929</Couleur>
+    <Couleur Nom="Note (Text 1)" ID="65">#727272</Couleur>
+    <Couleur Nom="Note (Text 2)" ID="66">#2e7b32</Couleur>
+    <Couleur Nom="Note (Text 3)" ID="67">#f44336</Couleur>
+    <Couleur Nom="General (Border 3)" ID="68">#e71f74</Couleur>
+    <Couleur Nom="Negative (Border 1)" ID="69">#ffffff</Couleur>
+    <Couleur Nom="Negative (Border 2)" ID="70">#fbfbfb</Couleur>
+    <Couleur Nom="Negative (Border 3)" ID="71">#f9f9f9</Couleur>
+    <Couleur Nom="Button (Border 1)" ID="72">#e71f74</Couleur>
+    <Couleur Nom="Button (Border 2)" ID="73">#d41d6b</Couleur>
+    <Couleur Nom="Button (Border 3)" ID="74">#f3217a</Couleur>
+    <Couleur Nom="Menu/Tab (Border 1)" ID="75">#b9195d</Couleur>
+    <Couleur Nom="Menu/Tab (Border 2)" ID="76">#ffff8d</Couleur>
+    <Couleur Nom="Menu/Tab (Border 3)" ID="77">#b9195d</Couleur>
+    <Couleur Nom="Sub-menu (Border 1)" ID="78">#e6e6e6</Couleur>
+    <Couleur Nom="Sub-menu (Border 2)" ID="79">#e8e8e8</Couleur>
+    <Couleur Nom="Sub-menu (Border 3)" ID="80">#b9195d</Couleur>
+    <Couleur Nom="Input area/Area in selection (Border 1)" ID="81">#e6e6e6</Couleur>
+    <Couleur Nom="Input area/Area in selection (Border 2)" ID="82">#b9195d</Couleur>
+    <Couleur Nom="Input area/Area in selection (Border 3)" ID="83">#e71f74</Couleur>
+    <Couleur Nom="Note (Border 1)" ID="84">#ffffff</Couleur>
+    <Couleur Nom="Note (Border 2)" ID="85">#4caf50</Couleur>
+    <Couleur Nom="Note (Border 3)" ID="86">#f44336</Couleur>
+    <Couleur Nom="Information (Text 1)" ID="87">#ffffff</Couleur>
+    <Couleur Nom="Information (Text 2)" ID="88">#ffffff</Couleur>
+    <Couleur Nom="Information (Text 3)" ID="89">#ffffff</Couleur>
+    <Couleur Nom="Validation (Text 1)" ID="90">#ffffff</Couleur>
+    <Couleur Nom="Validation (Text 2)" ID="91">#ffffff</Couleur>
+    <Couleur Nom="Validation (Text 3)" ID="92">#ffffff</Couleur>
+    <Couleur Nom="Modification (Text 1)" ID="93">#ffffff</Couleur>
+    <Couleur Nom="Modification (Text 2)" ID="94">#ffffff</Couleur>
+    <Couleur Nom="Modification (Text 3)" ID="95">#ffffff</Couleur>
+    <Couleur Nom="Warning (Text 1)" ID="96">#ffffff</Couleur>
+    <Couleur Nom="Warning (Text 2)" ID="97">#ffffff</Couleur>
+    <Couleur Nom="Warning (Text 3)" ID="98">#ffffff</Couleur>
+    <Couleur Nom="Information (Bckgrd 1)" ID="99">#5bc0de</Couleur>
+    <Couleur Nom="Information (Bckgrd 2)" ID="100">#31b0d5</Couleur>
+    <Couleur Nom="Information (Bckgrd 3)" ID="101">#269abc</Couleur>
+    <Couleur Nom="Validation (Bckgrd 1)" ID="102">#5cb85c</Couleur>
+    <Couleur Nom="Validation (Bckgrd 2)" ID="103">#449d44</Couleur>
+    <Couleur Nom="Validation (Bckgrd 3)" ID="104">#398439</Couleur>
+    <Couleur Nom="Modification (Bckgrd 1)" ID="105">#f0ad4e</Couleur>
+    <Couleur Nom="Modification (Bckgrd 2)" ID="106">#ec971f</Couleur>
+    <Couleur Nom="Modification (Bckgrd 3)" ID="107">#d58512</Couleur>
+    <Couleur Nom="Warning (Bckgrd 1)" ID="108">#d9534f</Couleur>
+    <Couleur Nom="Warning (Bckgrd 2)" ID="109">#c9302c</Couleur>
+    <Couleur Nom="Warning (Bckgrd 3)" ID="110">#ab2925</Couleur>
+    <Couleur Nom="Information (Border 1)" ID="111">#46b8da</Couleur>
+    <Couleur Nom="Information (Border 2)" ID="112">#269abc</Couleur>
+    <Couleur Nom="Information (Border 3)" ID="113">#1b6d85</Couleur>
+    <Couleur Nom="Validation (Border 1)" ID="114">#4cae4c</Couleur>
+    <Couleur Nom="Validation (Border 2)" ID="115">#398439</Couleur>
+    <Couleur Nom="Validation (Border 3)" ID="116">#255625</Couleur>
+    <Couleur Nom="Modification (Border 1)" ID="117">#eea236</Couleur>
+    <Couleur Nom="Modification (Border 2)" ID="118">#d58512</Couleur>
+    <Couleur Nom="Modification (Border 3)" ID="119">#985f0d</Couleur>
+    <Couleur Nom="Warning (Border 1)" ID="120">#d43f3a</Couleur>
+    <Couleur Nom="Warning (Border 2)" ID="121">#ac2925</Couleur>
+    <Couleur Nom="Warning (Border 3)" ID="122">#761c19</Couleur>
+    <Couleur Nom="Series 1 (series and categories 1)" ID="123">#ffd440</Couleur>
+    <Couleur Nom="Series 2 (series and categories 1)" ID="124">#d79df8</Couleur>
+    <Couleur Nom="Series 3 (series and categories 1)" ID="125">#65c3e6</Couleur>
+    <Couleur Nom="Series 4 (series and categories 1)" ID="126">#b0e433</Couleur>
+    <Couleur Nom="Series 5 (series and categories 1)" ID="127">#ffbf69</Couleur>
+    <Couleur Nom="Series 6 (series and categories 1)" ID="128">#b2a3ff</Couleur>
+    <Couleur Nom="Series 7 (series and categories 1)" ID="129">#5ed7cb</Couleur>
+    <Couleur Nom="Series 8 (series and categories 1)" ID="130">#d8eb2b</Couleur>
+    <Couleur Nom="Series 9 (series and categories 1)" ID="131">#ff9dc7</Couleur>
+    <Couleur Nom="Series 10 (series and categories 1)" ID="132">#67afe8</Couleur>
+    <Couleur Nom="Series 11 (series and categories 1)" ID="133">#88e371</Couleur>
+  </Couleurs>
+</Palette>
